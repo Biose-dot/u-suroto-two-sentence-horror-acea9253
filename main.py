@@ -4,11 +4,11 @@
 Writes the entry text (no trailing newline, nothing else) to
 /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
 
-Exactly two sentences; the second reframes the first — the comfort of the first sentence becomes the dread of the second, and the horror is implied, never explained.
+Exactly two sentences; the second reframes the first — the comfort of a speaker that says goodnight becomes dread when it speaks unplugged, in a dead voice — and the horror is implied, never explained.
 """
 import os
 
-ENTRY = "I finally taught my smart speaker to say goodnight back. Tonight it whispered goodnight from inside the walls, in my dead mother's voice."
+ENTRY = "I finally taught my smart speaker to say goodnight back, and now it does, every night, without being asked. Tonight it whispered goodnight from inside the walls, in my dead mother's voice, before I had even plugged it in."
 
 
 def main() -> None:
