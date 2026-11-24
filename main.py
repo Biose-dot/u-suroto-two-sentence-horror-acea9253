@@ -3,7 +3,7 @@
 import os
 
 
-ENTRY = "I heard my own voice calling my name from the basement, though I live alone. When I crept downstairs to look, the voice whispered, 'Don't come down \u2014 I'm already up here.'"
+ENTRY = "The photo on my wall showed me sleeping, dated last night, though I live alone. This morning there was a new one, dated tonight."
 
 
 def main():
