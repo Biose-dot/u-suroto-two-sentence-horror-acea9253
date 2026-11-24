@@ -3,7 +3,7 @@
 import os
 
 
-ENTRY = "The photo on my wall showed me sleeping, dated last night, though I live alone. This morning there was a new one, dated tonight."
+ENTRY = "The baby monitor started narrating my daughter's dreams in my voice, three seconds before she dreamed them. Tonight it said, 'She's dreaming of the man in the attic now \u2014 and he just learned how to open doors.'"
 
 
 def main():
